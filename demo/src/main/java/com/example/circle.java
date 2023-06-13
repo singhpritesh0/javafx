@@ -25,7 +25,7 @@ pane.getChildren().add(circle);
 pane.getChildren().add(label);
 
 Scene scene = new Scene(pane, 300, 300);
-primaryStage.setTitle("ShowCircle"); // Set the stage title
+primaryStage.setTitle("ShowCirclein"); // Set the stage title
 primaryStage.setScene(scene); // Place the scene in the stage
 primaryStage.show(); // Display the stage
 }
